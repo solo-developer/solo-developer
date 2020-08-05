@@ -1,14 +1,11 @@
-###  Hi there !! I am Niroj Dahal,tech enthusiast from Nepal.
+### Hi there !! I am Niroj Dahal,tech enthusiast from Nepal.
 
-    <img
+<img
   align="center"
-  src="https://github.com/solo-developer/solo-developer/blob/master/99-bugs.png"
-  style="max-height:200px;"
+  src="https://github-readme-stats.vercel.app/api/?username=solo-developer&theme=dracula"
 />
-
 <!--
 **solo-developer/solo-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-https://github.com/solo-developer/solo-developer/blob/master/softwaredev.png
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
