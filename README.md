@@ -2,6 +2,7 @@
 <img
   align="center"
   src="https://github.com/solo-developer/solo-developer/blob/master/softwaredev.png"
+  style="height:200px;"
 />
 <!--
 **solo-developer/solo-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
